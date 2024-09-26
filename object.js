@@ -58,3 +58,4 @@ console.log(ob1);
 Object.seal(ob1);                                     //Object.seal() fixes the keys but value change is allowed
 ob1.name="Pawni Dixit";
 console.log(ob1);
+console.log("hello")
